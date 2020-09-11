@@ -20,7 +20,7 @@
     "express-session": "^1.16.1",
     "hbs": "^4.0.4",
     "heroku": "^7.25.0",
-    "http-proxy": "^1.17.0",
+    "http-proxy": "^1.18.1",
     "is-empty": "^1.2.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.5.13",
